@@ -1,0 +1,264 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.2.0">
+  <diagram name="Page-1" id="wx0xOVwHf0cUohEKgqvh">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-251" value="" style="group" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="1270.005" y="2260" width="330" height="1900" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-220" value="" style="group" connectable="0" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-251">
+          <mxGeometry y="440" width="330" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-221" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-220">
+          <mxGeometry x="5" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-222" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Controles de Rede:&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Segmentação em VLANs&lt;/li&gt;&lt;li&gt;Filtragem de pacotes&lt;/li&gt;&lt;li&gt;IDS/IPS&lt;/li&gt;&lt;li&gt;SSL VPN&lt;/li&gt;&lt;li&gt;Protocolos criptografados&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-220">
+          <mxGeometry y="106.25" width="330" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-229" value="" style="group" connectable="0" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-251">
+          <mxGeometry x="4.75" y="1460" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-230" value="" style="group" connectable="0" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-229">
+          <mxGeometry width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-231" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-230">
+          <mxGeometry width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-232" value="&lt;div align=&quot;justify&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Controles de Dados:&lt;/b&gt;&lt;/li&gt;&lt;li&gt;RAID&amp;nbsp;&lt;/li&gt;&lt;li&gt;FDE/BitLocker em todos os dispositivos&lt;/li&gt;&lt;li&gt;Snapshots das VMs&lt;/li&gt;&lt;li&gt;System state backup&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-230">
+          <mxGeometry x="10" y="91.55999999999995" width="300" height="136.88" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-236" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;On-premise&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-251">
+          <mxGeometry x="97.38000000000011" width="135.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-237" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.site;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-251">
+          <mxGeometry x="113.61000000000013" y="1810" width="102.27" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gCQnmy1wMcEaQqeRve3T-251" source="gCQnmy1wMcEaQqeRve3T-231" target="gCQnmy1wMcEaQqeRve3T-237">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-239" value="" style="group" connectable="0" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-251">
+          <mxGeometry x="4.75" y="1120" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-240" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-239">
+          <mxGeometry width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-241" value="&lt;div align=&quot;justify&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Controles de Aplicação:&lt;/b&gt;&lt;/li&gt;&lt;li data-end=&quot;868&quot; data-start=&quot;836&quot;&gt;MFA obrigatório para todos os usuários&lt;/li&gt;&lt;li data-end=&quot;868&quot; data-start=&quot;836&quot;&gt;Política de senhas fortes e lockout&lt;/li&gt;&lt;li data-end=&quot;868&quot; data-start=&quot;836&quot;&gt;RBAC&lt;/li&gt;&lt;li data-end=&quot;868&quot; data-start=&quot;836&quot;&gt;Restrições de login via GPO&lt;/li&gt;&lt;li data-end=&quot;868&quot; data-start=&quot;836&quot;&gt;Políticas de Acesso Condicional&lt;/li&gt;&lt;li data-end=&quot;868&quot; data-start=&quot;836&quot;&gt;Autenticação via AD nos hosts&lt;/li&gt;&lt;li data-end=&quot;868&quot; data-start=&quot;836&quot;&gt;ACLs baseadas no RBAC&lt;/li&gt;&lt;li data-end=&quot;868&quot; data-start=&quot;836&quot;&gt;Microsoft Defender for Identity&lt;/li&gt;&lt;li data-end=&quot;868&quot; data-start=&quot;836&quot;&gt;Microsoft Defender for Cloud Apps&lt;/li&gt;&lt;li data-end=&quot;868&quot; data-start=&quot;836&quot;&gt;Microsoft Defender for Office 365&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-239">
+          <mxGeometry x="6.25" y="113.125" width="307.5" height="93.75" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gCQnmy1wMcEaQqeRve3T-251" source="gCQnmy1wMcEaQqeRve3T-240" target="gCQnmy1wMcEaQqeRve3T-231">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gCQnmy1wMcEaQqeRve3T-251" source="gCQnmy1wMcEaQqeRve3T-224" target="gCQnmy1wMcEaQqeRve3T-240">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-223" value="" style="group" connectable="0" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-251">
+          <mxGeometry x="4.75" y="780" width="320" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-224" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-223">
+          <mxGeometry width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-225" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Controles de Endpoint:&lt;/b&gt;&lt;/li&gt;&lt;li data-end=&quot;733&quot; data-start=&quot;673&quot;&gt;&lt;p data-end=&quot;733&quot; data-start=&quot;675&quot;&gt;Gestão de atualizações e patches de segurança&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;li data-end=&quot;733&quot; data-start=&quot;673&quot;&gt;&lt;p data-end=&quot;733&quot; data-start=&quot;675&quot;&gt;Hardening do S.O.&lt;/p&gt;&lt;/li&gt;&lt;li data-end=&quot;733&quot; data-start=&quot;673&quot;&gt;Restrição de uso de dispositivos removíveis&lt;/li&gt;&lt;li data-end=&quot;733&quot; data-start=&quot;673&quot;&gt;Microsoft Defender for Endpoint&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-223">
+          <mxGeometry x="2.5" y="109.5703125" width="315" height="110.859375" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gCQnmy1wMcEaQqeRve3T-251" source="gCQnmy1wMcEaQqeRve3T-221" target="gCQnmy1wMcEaQqeRve3T-224">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-247" value="" style="group" connectable="0" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-251">
+          <mxGeometry x="5" y="101" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-248" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-247">
+          <mxGeometry width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-249" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;Controles Físicos:&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Gerador e UPS&lt;/li&gt;&lt;li&gt;Salas seguras/monitoradas&lt;/li&gt;&lt;li&gt;Cabeamento seguro&amp;nbsp;&lt;/li&gt;&lt;li data-end=&quot;345&quot; data-start=&quot;324&quot;&gt;HVAC (climatização)&lt;/li&gt;&lt;li data-end=&quot;364&quot; data-start=&quot;348&quot;&gt;HDDs em cofres&lt;/li&gt;&lt;li data-end=&quot;387&quot; data-start=&quot;367&quot;&gt;Rack com fechadura&lt;/li&gt;&lt;li data-end=&quot;387&quot; data-start=&quot;367&quot;&gt;Backup Off-site&lt;/li&gt;&lt;li data-end=&quot;387&quot; data-start=&quot;367&quot;&gt;Descarte e reutilização adequados de equipamentos, mídias e documentos&lt;/li&gt;&lt;li data-end=&quot;387&quot; data-start=&quot;367&quot;&gt;Tela/Mesa limpa&lt;/li&gt;&lt;li data-end=&quot;387&quot; data-start=&quot;367&quot;&gt;Manutenção adequada dos equipamentos&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-247">
+          <mxGeometry y="95" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-250" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="gCQnmy1wMcEaQqeRve3T-251" source="gCQnmy1wMcEaQqeRve3T-248" target="gCQnmy1wMcEaQqeRve3T-221">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-277" value="" style="group" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="2645" y="2270" width="330" height="1940" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-278" value="" style="group" connectable="0" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-277">
+          <mxGeometry y="440" width="330" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-279" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-278">
+          <mxGeometry x="5" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-280" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Controles de Rede:&lt;/b&gt;&lt;/li&gt;&lt;li&gt;DNS sinkhole para bloqueio de domínios maliciosos&lt;/li&gt;&lt;li&gt;SPF, DKIM e DMARC configurados corretamente no DNS&amp;nbsp;&lt;/li&gt;&lt;li&gt;Segmentação da rede de funcionários&lt;/li&gt;&lt;li&gt;VPN para funcionários em trabalho remoto&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-278">
+          <mxGeometry y="106.25" width="330" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-281" value="" style="group" connectable="0" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-277">
+          <mxGeometry x="4.75" y="1460" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-282" value="" style="group" connectable="0" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-281">
+          <mxGeometry width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-283" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-282">
+          <mxGeometry width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-284" value="&lt;div align=&quot;justify&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Controles de Dados:&lt;/b&gt;&lt;/li&gt;&lt;li&gt;FDE/BitLocker nos laptops e estações de trabalho&lt;/li&gt;&lt;li&gt;Uso obrigatório de S/MIME ou criptografia via Purview&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-282">
+          <mxGeometry x="10" y="91.55999999999995" width="300" height="136.88" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-285" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;E-mail&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-277">
+          <mxGeometry x="97.38000000000011" width="135.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gCQnmy1wMcEaQqeRve3T-277" source="gCQnmy1wMcEaQqeRve3T-283">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="164.83333333333348" y="1810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-288" value="" style="group" connectable="0" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-277">
+          <mxGeometry x="4.75" y="1120" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-289" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-288">
+          <mxGeometry width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-290" value="&lt;div align=&quot;justify&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Controles de Aplicação:&lt;/b&gt;&lt;/li&gt;&lt;li data-end=&quot;733&quot; data-start=&quot;673&quot;&gt;Microsoft Defender for Cloud Apps&lt;/li&gt;&lt;li data-end=&quot;868&quot; data-start=&quot;836&quot;&gt;Microsoft Defender for Office 365&lt;/li&gt;&lt;/ul&gt;&lt;li data-end=&quot;892&quot; data-start=&quot;869&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-288">
+          <mxGeometry x="6.25" y="113.125" width="307.5" height="93.75" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-291" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gCQnmy1wMcEaQqeRve3T-277" source="gCQnmy1wMcEaQqeRve3T-289" target="gCQnmy1wMcEaQqeRve3T-283">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-292" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gCQnmy1wMcEaQqeRve3T-277" source="gCQnmy1wMcEaQqeRve3T-294" target="gCQnmy1wMcEaQqeRve3T-289">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-293" value="" style="group" connectable="0" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-277">
+          <mxGeometry x="4.75" y="780" width="320" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-294" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-293">
+          <mxGeometry width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-295" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Controles de Endpoint:&lt;/b&gt;&lt;/li&gt;&lt;li data-end=&quot;733&quot; data-start=&quot;673&quot;&gt;Microsoft Defender for Endpoint&lt;/li&gt;&lt;li data-end=&quot;733&quot; data-start=&quot;673&quot;&gt;Gestão de atualizações e patches de segurança dos laptops e estações de trabalho&lt;/li&gt;&lt;li data-end=&quot;733&quot; data-start=&quot;673&quot;&gt;Hardening do SO&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-293">
+          <mxGeometry x="2.5" y="109.5703125" width="315" height="110.859375" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-296" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gCQnmy1wMcEaQqeRve3T-277" source="gCQnmy1wMcEaQqeRve3T-279" target="gCQnmy1wMcEaQqeRve3T-294">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-297" value="" style="group" connectable="0" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-277">
+          <mxGeometry x="5" y="100" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-298" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-297">
+          <mxGeometry width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-299" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;Controles Físicos:&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Tela/Mesa Limpa&lt;/li&gt;&lt;li&gt;Trabalho remoto apenas em locais seguros&lt;/li&gt;&lt;li&gt;Responsabilidades do provedor Cloud, definido em contrato e validado pelo contratante&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-297">
+          <mxGeometry y="95" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="gCQnmy1wMcEaQqeRve3T-277" source="gCQnmy1wMcEaQqeRve3T-298" target="gCQnmy1wMcEaQqeRve3T-279">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-302" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.azure.message2;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-277">
+          <mxGeometry x="110.95" y="1820" width="108.11" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-330" value="" style="group" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="1676.2700000000002" y="4230" width="303.75" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-326" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-330">
+          <mxGeometry x="26.875" width="250" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-332" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="gCQnmy1wMcEaQqeRve3T-330" source="gCQnmy1wMcEaQqeRve3T-228">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="633.7449999999999" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-228" value="&lt;div align=&quot;left&quot;&gt;&lt;ul style=&quot;padding-left: 40px;&quot;&gt;&lt;li&gt;&lt;b&gt;Políticas, Treinamento e Conscientização:&lt;/b&gt;&lt;/li&gt;&lt;li data-end=&quot;1376&quot; data-start=&quot;1343&quot;&gt;Política de backup&lt;/li&gt;&lt;li data-end=&quot;1376&quot; data-start=&quot;1343&quot;&gt;Plano de Resposta a Incidentes&lt;/li&gt;&lt;li data-end=&quot;1376&quot; data-start=&quot;1343&quot;&gt;Plano de Recuperação de Desastres&lt;/li&gt;&lt;li data-end=&quot;1376&quot; data-start=&quot;1343&quot;&gt;Plano de Continuidade de Negócios&lt;/li&gt;&lt;li data-end=&quot;1376&quot; data-start=&quot;1343&quot;&gt;Plano de Comunicação&lt;/li&gt;&lt;li data-end=&quot;1376&quot; data-start=&quot;1343&quot;&gt;Security Awareness Training&lt;/li&gt;&lt;li data-end=&quot;1376&quot; data-start=&quot;1343&quot;&gt;Simulação de Resposta a Incidentes&lt;/li&gt;&lt;li data-end=&quot;1376&quot; data-start=&quot;1343&quot;&gt;Simulação de Phishing&lt;/li&gt;&lt;li data-end=&quot;1376&quot; data-start=&quot;1343&quot;&gt;Política de report correto de phishing&lt;/li&gt;&lt;li data-end=&quot;1376&quot; data-start=&quot;1343&quot;&gt;NDA&lt;/li&gt;&lt;li data-end=&quot;1376&quot; data-start=&quot;1343&quot;&gt;Treinamento para desenvolvedores&lt;/li&gt;&lt;li data-end=&quot;1376&quot; data-start=&quot;1343&quot;&gt;Política de desenvolvimento seguro&lt;/li&gt;&lt;li data-end=&quot;1376&quot; data-start=&quot;1343&quot;&gt;Política de uso seguro de IAs&lt;/li&gt;&lt;li data-end=&quot;1376&quot; data-start=&quot;1343&quot;&gt;Cultura Secured DevOps&lt;/li&gt;&lt;li data-end=&quot;1376&quot; data-start=&quot;1343&quot;&gt;GMUD via ITSM&lt;/li&gt;&lt;li data-end=&quot;1376&quot; data-start=&quot;1343&quot;&gt;Gestão de Riscos e Vulnerabilidades&lt;/li&gt;&lt;li data-end=&quot;1474&quot; data-start=&quot;1425&quot;&gt;Inventário de ativos&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-330">
+          <mxGeometry y="106.86475000000024" width="303.75" height="96.27049999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-331" value="" style="group" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="1980.0200000000002" y="2270" width="330" height="1900" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-253" value="" style="group" connectable="0" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-331">
+          <mxGeometry y="440" width="330" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-254" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-253">
+          <mxGeometry x="5" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-255" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Controles de Rede:&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Segmentação via VPC&lt;/li&gt;&lt;li&gt;Filtragem de pacotes&lt;/li&gt;&lt;li&gt;VPN para administração&lt;/li&gt;&lt;li&gt;Load Balancer&lt;/li&gt;&lt;li&gt;Protocolos criptografados&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-253">
+          <mxGeometry y="106.25" width="330" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-256" value="" style="group" connectable="0" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-331">
+          <mxGeometry x="4.739999999999782" y="1460" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-257" value="" style="group" connectable="0" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-256">
+          <mxGeometry width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-258" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-257">
+          <mxGeometry width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-259" value="&lt;div align=&quot;justify&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Controles de Dados:&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Criptografia em repouso e em trânsito&lt;/li&gt;&lt;li&gt;Hashing e salting no BD para informações sensíveis&lt;/li&gt;&lt;li&gt;ReplicaSet&lt;/li&gt;&lt;li&gt;Retenção e descarte de dados conforme&amp;nbsp; legislação/normas&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-257">
+          <mxGeometry x="10" y="91.55999999999995" width="300" height="136.88" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-260" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Cloud&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-331">
+          <mxGeometry x="97.36999999999989" width="135.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gCQnmy1wMcEaQqeRve3T-331" source="gCQnmy1wMcEaQqeRve3T-258">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="164.82333333333327" y="1810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-263" value="" style="group" connectable="0" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-331">
+          <mxGeometry x="4.739999999999782" y="1120" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-264" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-263">
+          <mxGeometry width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-265" value="&lt;div align=&quot;justify&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Controles de Aplicação:&lt;/b&gt;&lt;/li&gt;&lt;li data-end=&quot;868&quot; data-start=&quot;836&quot;&gt;WAF&lt;/li&gt;&lt;li data-end=&quot;868&quot; data-start=&quot;836&quot;&gt;Validação de Input&lt;/li&gt;&lt;li data-end=&quot;868&quot; data-start=&quot;836&quot;&gt;SAST/DAST&lt;/li&gt;&lt;li data-end=&quot;868&quot; data-start=&quot;836&quot;&gt;Segregação de ambientes&lt;/li&gt;&lt;li data-end=&quot;868&quot; data-start=&quot;836&quot;&gt;Bibliotecas seguras e atualizadas&lt;/li&gt;&lt;li data-end=&quot;868&quot; data-start=&quot;836&quot;&gt;RBAC no BD&lt;/li&gt;&lt;li data-end=&quot;868&quot; data-start=&quot;836&quot;&gt;Versionamento via Git&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-263">
+          <mxGeometry x="6.25" y="113.125" width="307.5" height="93.75" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gCQnmy1wMcEaQqeRve3T-331" source="gCQnmy1wMcEaQqeRve3T-264" target="gCQnmy1wMcEaQqeRve3T-258">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-267" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gCQnmy1wMcEaQqeRve3T-331" source="gCQnmy1wMcEaQqeRve3T-269" target="gCQnmy1wMcEaQqeRve3T-264">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-268" value="" style="group" connectable="0" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-331">
+          <mxGeometry x="4.739999999999782" y="780" width="320" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-269" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-268">
+          <mxGeometry width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-270" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Controles de Endpoint:&lt;/b&gt;&lt;/li&gt;&lt;li data-end=&quot;733&quot; data-start=&quot;673&quot;&gt;Gestão de atualizações e patches de segurança&lt;/li&gt;&lt;li data-end=&quot;733&quot; data-start=&quot;673&quot;&gt;Microsoft Defender for Endpoint&lt;/li&gt;&lt;li data-end=&quot;733&quot; data-start=&quot;673&quot;&gt;Microsoft Defender for Cloud&lt;/li&gt;&lt;li data-end=&quot;733&quot; data-start=&quot;673&quot;&gt;Hardening do SO&lt;/li&gt;&lt;li data-end=&quot;733&quot; data-start=&quot;673&quot;&gt;Hardening de contêineres&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-268">
+          <mxGeometry x="2.5" y="109.5703125" width="315" height="110.859375" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gCQnmy1wMcEaQqeRve3T-331" source="gCQnmy1wMcEaQqeRve3T-254" target="gCQnmy1wMcEaQqeRve3T-269">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-272" value="" style="group" connectable="0" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-331">
+          <mxGeometry x="4.989999999999782" y="100" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-273" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-272">
+          <mxGeometry width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-274" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;Controles Físicos:&lt;/b&gt;&lt;/li&gt;&lt;li data-end=&quot;387&quot; data-start=&quot;367&quot;&gt;Responsabilidade do provedor Cloud, definido em contrato e validado pelo contratante&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-272">
+          <mxGeometry y="95" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="gCQnmy1wMcEaQqeRve3T-331" source="gCQnmy1wMcEaQqeRve3T-273" target="gCQnmy1wMcEaQqeRve3T-254">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-334" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gCQnmy1wMcEaQqeRve3T-331" source="gCQnmy1wMcEaQqeRve3T-301">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="164.9799999999998" y="2110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-301" value="" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.cloud;network2IconYOffset=-0.08;network2IconW=1.0004;network2IconH=0.7222;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-331">
+          <mxGeometry x="105.09999999999991" y="1813.8899999999999" width="119.27" height="86.11" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-344" value="" style="group" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="2310.02" y="4229.995" width="278.4300000000003" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-343" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-344">
+          <mxGeometry x="25.3100000000004" width="253.12" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-235" value="&lt;div align=&quot;justify&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Monitoramento e Resposta:&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Envio de logs para o SIEM (Sentinel) via Syslog/Sysmon/Auditd&lt;/li&gt;&lt;li&gt;Microsoft Defender XDR&lt;/li&gt;&lt;li data-end=&quot;1205&quot; data-start=&quot;1162&quot;&gt;Revisão periódica de acessos&lt;/li&gt;&lt;li data-end=&quot;1281&quot; data-start=&quot;1208&quot;&gt;Regras de detecção para vulnerabilidades/ataques específicos, relacionadas às tecnologias utilizadas pela organização&lt;/li&gt;&lt;li data-end=&quot;1281&quot; data-start=&quot;1208&quot;&gt;DFIR&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gCQnmy1wMcEaQqeRve3T-344">
+          <mxGeometry y="100.78499999999985" width="269.98" height="108.44" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-345" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gCQnmy1wMcEaQqeRve3T-302" target="gCQnmy1wMcEaQqeRve3T-343">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gCQnmy1wMcEaQqeRve3T-346" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gCQnmy1wMcEaQqeRve3T-237" target="gCQnmy1wMcEaQqeRve3T-326">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
